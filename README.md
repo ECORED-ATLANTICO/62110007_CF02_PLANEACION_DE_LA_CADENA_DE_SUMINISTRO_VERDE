@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+https://ecored-atlantico.github.io/62110007_CF02_PLANEACION_DE_LA_CADENA_DE_SUMINISTRO_VERDE/#/
 
 #
 
