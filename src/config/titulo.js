@@ -1,1 +1,1 @@
-module.exports = 'Titulo del componente formativo'
+module.exports = 'Diseño del plan de la cadena de suministro sostenible'
