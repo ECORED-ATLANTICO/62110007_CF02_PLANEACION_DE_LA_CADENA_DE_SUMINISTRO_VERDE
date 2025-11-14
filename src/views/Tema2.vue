@@ -18,9 +18,7 @@
           .col-12.col-xl-8.mb-4.mb-lg-0
               //- Cajon
               .cajon.bg-color-primario-p10.p-4
-                p.mb-0 En definitiva, los objetivos sostenibles permiten que las decisiones logísticas sean responsables, medibles y orientadas al equilibrio entre rentabilidad, cuidado ambiental y compromiso social, constituyendo la base para la gestión de cadenas de suministro modernas y sostenibles.
-
-                p En un entorno global cada vez más competitivo y regulado, la implementación de estrategias sostenibles en la cadena de suministro es crucial para asegurar la viabilidad a largo plazo de las organizaciones. Estas estrategias permiten reducir impactos ambientales, mejorar la reputación corporativa y generar eficiencia operativa. Además, se alinean con los Objetivos de Desarrollo Sostenible (ODS), impulsando una economía más responsable y resiliente (World Economic Forum, 2020).
+                p.mb-0 En un entorno global cada vez más competitivo y regulado, la implementación de estrategias sostenibles en la cadena de suministro es crucial para asegurar la viabilidad a largo plazo de las organizaciones. Estas estrategias permiten reducir impactos ambientales, mejorar la reputación corporativa y generar eficiencia operativa. Además, se alinean con los Objetivos de Desarrollo Sostenible (ODS), impulsando una economía más responsable y resiliente <em> (World Economic Forum</em>, 2020).
     
     separador
 
@@ -82,7 +80,8 @@
         .titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2#t_2_3 2.3.	Metodología de diseño
 
-
+        p.mb-5 El diseño de estrategias sostenibles requiere un enfoque estructurado que garantice su coherencia con los objetivos organizacionales y su viabilidad técnica y financiera. A continuación, se presentan las etapas recomendadas:
+        
         PasosA.color-acento-contenido.mb-5(tipo="n")(data-aos="fade-left")
           .row
             .col-12.col-md-8.col-lg-3.mb-4.mb-lg-0.mx-auto

@@ -14,7 +14,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/intro/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El componente formativo Diseño del plan de la cadena de suministro sosteniblev ofrece al aprendiz herramientas técnicas y prácticas para abordar la planificación e integración de cadenas de suministro con enfoque sostenible. A partir del conocimiento de conceptos, metodologías y modelos de gestión verde, se fortalecen competencias para diseñar, implementar y evaluar estrategias que optimicen recursos, respeten el medio ambiente y generen valor social y económico.
+        p.mb-0 El componente formativo Diseño del plan de la cadena de suministro sostenible ofrece al aprendiz herramientas técnicas y prácticas para abordar la planificación e integración de cadenas de suministro con enfoque sostenible. A partir del conocimiento de conceptos, metodologías y modelos de gestión verde, se fortalecen competencias para diseñar, implementar y evaluar estrategias que optimicen recursos, respeten el medio ambiente y generen valor social y económico.
 
     //- Col1 y Col11
     .container.mb-5
@@ -28,8 +28,8 @@
 
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/FnsTogwtzB4?si=pD84Yy9pQqqM5ujl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Fuente: SENA, 2025.
 
 </template>
 

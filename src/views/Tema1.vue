@@ -13,7 +13,7 @@
         figure
           img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img01.svg', alt='Imagen Decorativa')
       .col-12.col-md-12.col-lg-8
-        p Los productos y servicios verdes protegen el medio ambiente, fomentan la economía circular y promueven un consumo más responsable. Contribuyen a mitigar el cambio climático y a conservar los recursos naturales. Además, fortalecen la imagen empresarial y responden a las demandas de consumidores cada vez más conscientes.
+        p Establecer objetivos en una cadena de suministro sostenible es clave para orientar las decisiones hacia el equilibrio entre eficiencia, cuidado ambiental y responsabilidad social. Estos objetivos permiten planificar acciones concretas, medir avances y generar valor compartido a lo largo del ciclo de vida del producto. Sin metas claras, la sostenibilidad no puede gestionarse ni mejorarse.
 
     
     .bg-full-width.bg01
@@ -57,6 +57,8 @@
         .titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2#t_1_2 1.2 Tipos
 
+        p.mb-5 Los objetivos pueden clasificarse en distintos tipos, según el enfoque que priorizan dentro del modelo de sostenibilidad (económico, social o ambiental). Esta clasificación facilita su planificación y ejecución dentro del contexto organizacional:
+        
         //- Acordion A
         TabsA.color-acento-botones.mb-5
         

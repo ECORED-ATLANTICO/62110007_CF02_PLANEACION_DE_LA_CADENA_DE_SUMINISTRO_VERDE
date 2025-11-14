@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Negociación de propuestas comerciales.',
+      tema: 'Diseño del plan de la cadena de suministro sostenible',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> reforzar los conocimientos adquiridos en el componente formativo mediante preguntas tipo falso/verdadero. A través de afirmaciones reflexivas y retroalimentación inmediata, el aprendiz podrá consolidar conceptos, identificar posibles confusiones y fortalecer su capacidad para aplicar estrategias comerciales de manera ética y efectiva en entornos digitales.',
+        '<b> Objetivo:</b> evaluar la comprensión de los aspectos teóricos del plan de la cadena de suministro sostenible y su aplicación en contextos empresariales responsables.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -28,7 +28,7 @@ export default {
         {
           id: 1,
           texto:
-            'El emisor en la comunicación comercial es quien recibe el mensaje.',
+            'La cadena de suministro sostenible busca únicamente beneficios económicos.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -49,7 +49,7 @@ export default {
         {
           id: 2,
           texto:
-            'Las interferencias semánticas ocurren cuando el lenguaje utilizado no es comprendido por el receptor.',
+            'Los objetivos sostenibles deben alinearse con criterios sociales, ambientales y económicos.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -70,7 +70,7 @@ export default {
         {
           id: 3,
           texto:
-            'Una propuesta comercial puede ser enviada sin considerar el canal de comunicación más adecuado.',
+            'La metodología SMART permite formular objetivos vagos y generales.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -91,19 +91,19 @@ export default {
         {
           id: 4,
           texto:
-            'Las herramientas digitales permiten mejorar la presentación y seguimiento de propuestas comerciales.',
+            'Las estrategias sostenibles pueden aplicarse en procesos de producción, transporte y posventa.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -112,7 +112,7 @@ export default {
         {
           id: 5,
           texto:
-            'El modelo de negociación distributiva busca beneficios mutuos entre las partes.',
+            'El cronograma del plan de integración sostenible no requiere responsables ni fases definidas.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -133,7 +133,7 @@ export default {
         {
           id: 6,
           texto:
-            'El modelo colaborativo se enfoca en construir relaciones comerciales a largo plazo.',
+            'La matriz DOFA verde considera impactos ambientales y sociales en su análisis.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -154,19 +154,19 @@ export default {
         {
           id: 7,
           texto:
-            'El anclaje es una técnica que consiste en presentar una cifra inicial que influye en la percepción del cliente.',
+            'El <em>benchmarking</em> sostenible se utiliza para comparar precios entre proveedores.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -175,7 +175,7 @@ export default {
         {
           id: 8,
           texto:
-            'La escasez como técnica persuasiva se basa en ofrecer productos sin límite de disponibilidad.',
+            'El Análisis de Ciclo de Vida (ACV) evalúa el impacto ambiental desde la producción hasta la disposición final del producto.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -196,19 +196,19 @@ export default {
         {
           id: 9,
           texto:
-            'Un script comercial debe ser rígido y no permitir adaptaciones durante la negociación.',
+            'El uso de indicadores (KPIs) permite medir el desempeño ambiental, social y financiero.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -217,19 +217,19 @@ export default {
         {
           id: 10,
           texto:
-            'Los scripts comerciales ayudan a estructurar el mensaje y anticipar objeciones del cliente.',
+            'La logística inversa consiste en eliminar productos defectuosos de la cadena.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -238,19 +238,19 @@ export default {
         {
           id: 11,
           texto:
-            'El seguimiento comercial solo se realiza si el cliente responde a la propuesta.',
+            'El presupuesto del plan de integración sostenible puede incluir fuentes de financiación como créditos verdes.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -259,19 +259,19 @@ export default {
         {
           id: 12,
           texto:
-            'Una llamada telefónica puede ser una técnica efectiva de seguimiento comercial.',
+            'El diseño de empaques sostenibles no tiene relación con la cadena de suministro verde.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -280,7 +280,7 @@ export default {
         {
           id: 13,
           texto:
-            'Las herramientas CRM permiten automatizar y personalizar el seguimiento comercial.',
+            'Una estrategia de sostenibilidad puede incluir el uso de vehículos eléctricos para transporte.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -301,19 +301,19 @@ export default {
         {
           id: 14,
           texto:
-            'WhatsApp Business no puede ser utilizado como herramienta de seguimiento comercial.',
+            'Las herramientas estratégicas ayudan a diagnosticar, planear y tomar decisiones responsables.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -322,19 +322,19 @@ export default {
         {
           id: 15,
           texto:
-            'Los protocolos de contacto establecen buenas prácticas para comunicarse con el cliente.',
+            'La matriz de impactos no se considera útil en la sostenibilidad de cadenas de suministro.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -343,19 +343,19 @@ export default {
         {
           id: 16,
           texto:
-            'Un protocolo de contacto puede incluir la frecuencia de seguimiento y el tono del mensaje.',
+            'El Balanced scorecard verde incorpora indicadores financieros, pero no ambientales.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -364,19 +364,19 @@ export default {
         {
           id: 17,
           texto:
-            'Los informes de seguimiento comercial no aportan valor al proceso de ventas.',
+            'El plan de integración sostenible debe incluir etapas, recursos e indicadores definidos.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -385,7 +385,7 @@ export default {
         {
           id: 18,
           texto:
-            'Un informe de seguimiento puede incluir indicadores como propuestas enviadas y cierres comerciales.',
+            'Reducir residuos, mejorar trazabilidad y capacitar proveedores son ejemplos de estrategias sostenibles.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -406,7 +406,7 @@ export default {
         {
           id: 19,
           texto:
-            'Los programas de fidelización buscan únicamente aumentar las ventas inmediatas.',
+            'El análisis DOFA tradicional y el DOFA verde son exactamente iguales.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -427,7 +427,7 @@ export default {
         {
           id: 20,
           texto:
-            'Una estrategia de fidelización puede incluir el reconocimiento público del cliente fiel.',
+            'El enfoque por etapas permite organizar el plan de integración sostenible de manera secuencial y eficiente.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

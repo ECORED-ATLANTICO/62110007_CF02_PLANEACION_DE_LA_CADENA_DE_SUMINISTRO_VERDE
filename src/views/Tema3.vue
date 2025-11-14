@@ -144,8 +144,7 @@
           .titulo-segundo.color-acento-contenido(data-aos="fade-right")
             h2#t_3_4 3.4 Etapas de elaboración
 
-          p.mb-5 El desarrollo de un plan de integración sostenible en la cadena de suministro requiere seguir una secuencia estructurada de etapas. Cada fase permite construir, validar y optimizar estrategias alineadas con la sostenibilidad. La siguiente tabla presenta dichas etapas con sus descripciones y ejemplos aplicados.
-
+          p.mb-5 El desarrollo de un plan de integración sostenible en la cadena de suministro requiere seguir una secuencia estructurada de etapas. Cada fase permite construir, validar y optimizar estrategias alineadas con la sostenibilidad. A continuación, se presentan las etapas del plan:
 
       //- Col8 (Slider) y Col4
       .container(data-aos="fade-right")

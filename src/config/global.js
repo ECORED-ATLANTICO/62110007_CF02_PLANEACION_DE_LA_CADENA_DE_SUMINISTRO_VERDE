@@ -183,12 +183,12 @@ export default {
         'Herramienta que permite evaluar los impactos ambientales de un producto o proceso desde su origen hasta su disposición final.',
     },
     {
-      termino: 'Balanced scorecard verde',
+      termino: '<em>Balanced scorecard</em> verde',
       significado:
         'Cuadro de mando integral que incorpora indicadores ambientales y sociales junto a los financieros para medir el desempeño sostenible.',
     },
     {
-      termino: 'Benchmarking',
+      termino: '<em>Benchmarking</em>',
       significado:
         'Comparación de procesos o prácticas con empresas líderes para identificar oportunidades de mejora.',
     },
