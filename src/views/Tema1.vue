@@ -210,7 +210,7 @@
               .row(titulo="Agroindustria").justify-content-center.align-items-center
                 .col-12.col-lg-5.mb-4.mb-md-0.order-2.order-lg-1
                   h4 Agroindustria
-                  p Promueve el uso de insumos orgánicos, el aprovechamiento de residuos agrícolas mediante compostaje y la inclusión de comunidades rurales y vulnerables en la cadena productiva
+                  p Promueve el uso de insumos orgánicos, el aprovechamiento de residuos agrícolas mediante compostaje y la inclusión de comunidades rurales y vulnerables en la cadena productiva.
                 .col-12.col-lg-5.order-1.order-lg-2
                   figure
                     img(src='@/assets/curso/temas/tema1/img17.png', alt='Imagen Decorativa').mb-3.mb-lg-0
