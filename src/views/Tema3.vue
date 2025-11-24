@@ -241,10 +241,10 @@
             .titulo-sexto.mb-4.color-acento-contenido
               h5 
                 b Figura 1. 
-                span Beneficios del diseño ecológico
+                span Herramientas para cadenas de suministro sostenibles
             figure.mb-4
-              img(src='@/assets/curso/temas/tema3/img19.png', alt='---').mx-auto.d-none.d-md-block
-              img(src='@/assets/curso/temas/tema3/img19m.png', alt='---').mx-auto.d-block.d-md-none
+              img(src='@/assets/curso/temas/tema3/img19.png', alt='La figura describe las herramientas de diagnóstico para la sostenibilidad, DOFA verde, benchmarking sostenible, Análisis de Ciclo de Vida, huella de carbono y balanced scorecard verde, destacando su función en la identificación de oportunidades de mejora y en la toma de decisiones estratégicas orientadas a la sostenibilidad empresarial.').mx-auto.d-none.d-md-block
+              img(src='@/assets/curso/temas/tema3/img19m.png', alt='La figura describe las herramientas de diagnóstico para la sostenibilidad, DOFA verde, benchmarking sostenible, Análisis de Ciclo de Vida, huella de carbono y balanced scorecard verde, destacando su función en la identificación de oportunidades de mejora y en la toma de decisiones estratégicas orientadas a la sostenibilidad empresarial.').mx-auto.d-block.d-md-none
 
             figcaption 
               b Fuente: 

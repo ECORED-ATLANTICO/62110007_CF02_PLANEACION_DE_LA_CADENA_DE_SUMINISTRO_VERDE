@@ -15,7 +15,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo Diseño del plan de la cadena de suministro sostenible, ofrece una aproximación integral a los conocimientos fundamentales sobre la integración de la sostenibilidad en los procesos logísticos y la planificación estratégica de la cadena de suministro. Este módulo analiza detalladamente la formulación de objetivos sostenibles con enfoque ambiental, social y económico, resaltando su relevancia en la creación de valor responsable y competitivo. Asimismo, se desglosan las estrategias de ecodiseño, logística inversa y digitalización, junto con la definición de indicadores, recursos y cronogramas, permitiendo estructurar planes sostenibles coherentes con los objetivos de desarrollo sostenible y las competencias laborales del sector productivo. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
